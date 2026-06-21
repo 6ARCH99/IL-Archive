@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Jika kamu punya warna custom (tunas-dark, dll), 
+   di v4 ditulis seperti ini di bawah import: */
+@theme {
+  --color-tunas-dark: #1B3C35;
+  --color-tunas-light: #FDFBF0;
+  --color-tunas-bg: #F5F3E7;
+  --color-tunas-green: #5B9A74;
+  --color-tunas-orange: #EBA332;
+}
+
